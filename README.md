@@ -5,7 +5,7 @@ Home to all of RT code for the year. If you are new to GitHub, I strongly recomm
 
 Projects will be handled within HYPED RT2020, from python for HLCS to Matlab for physics.
 
-A general FAQ will be here shortly.
+A general FAQ will be here shortly. Have a look at the HLCS overview to see section breakdown.
 
 Atb,
 
